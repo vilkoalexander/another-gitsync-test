@@ -4,7 +4,7 @@
 
 <figure><img src=".gitbook/assets/600.png" alt="ALT TEXT 2" width="250" height="200"><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/600.png" alt="ALT TEXT 3" width="300" height="800"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/600.png" alt="ALT TEXT 3" width="300asd" height="800"><figcaption></figcaption></figure>
 
 Inline image is here <img src=".gitbook/assets/600.png" alt="ALT TEXT 4" width="200asds" data-size="line">
 ![300x400](https://user-images.githubusercontent.com/8102292/234003987-91b4fdce-04f8-4317-9fe1-2c96decd46b8.png)
