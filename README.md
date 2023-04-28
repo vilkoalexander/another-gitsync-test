@@ -1,8 +1,8 @@
 # another-gitsync-test
 
-<figure><img src=".gitbook/assets/600.png" alt="ALT TEXT 1" width="200"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/600.png" alt="ALT TEXT 1" width="300"><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/600.png" alt="ALT TEXT 2" height="200" width="250"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/600.png" alt="ALT TEXT 2" width="450"><figcaption></figcaption></figure>
 
 
 
