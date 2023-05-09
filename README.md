@@ -2,7 +2,7 @@
 
 <figure><img src=".gitbook/assets/600.png" alt="ALT TEXT 1" width="300"><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/600.png" alt="ALT TEXT 2" width="450"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/600.png" alt="ALT TEXT 2" width="300%"><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/600.png" alt="ALT TEXT 3" height="800" width="300"><figcaption></figcaption></figure>
 
